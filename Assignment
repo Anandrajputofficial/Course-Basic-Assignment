@@ -1,0 +1,41 @@
+what is HTML?
+
+HTML (Hypertext Markup Language) is the standard language used to create web pages. It consists of a series of tags and attributes that define the structure and content of a web page. HTML is used to create the basic structure of a web page, including headings, paragraphs, images, and links. It works in conjunction with other languages like CSS and JavaScript to create dynamic and interactive web pages.
+
+what is CSS?
+
+CSS (Cascading Style Sheets) is a language used to describe the presentation of a document written in a markup language. It is primarily used to style the visual presentation of web pages written in HTML or XML (including XHTML). CSS allows web developers to separate the presentation of a website from its structure and content, making it easier to maintain and improve the appearance of a website over time. With CSS, developers can control things like colors, fonts, layouts, and more, in a separate file from the HTML. This makes it easier to make global changes to the look of a website by only editing a single CSS file, instead of having to make changes to multiple HTML pages.
+
+Why did javascript come into the picture?
+
+JavaScript was created to add interactivity and dynamic behavior to web pages. While HTML and CSS are used to define the structure and presentation of a web page, JavaScript allows web developers to create dynamic and interactive websites by adding logic and programming capabilities to web pages.
+
+JavaScript allows web developers to:
+
+Respond to user input and create interactive forms
+Create animations and effects
+Update and manipulate the content of a web page without having to refresh the entire page
+Create complex, interactive user interfaces
+Connect to and manipulate data from other sources, like web services and databases
+Additionally, JavaScript can also be used on the server-side, through technologies like Node.js, and in mobile apps, through technologies like React Native.
+
+In short, JavaScript enables web developers to create dynamic and interactive web pages, and its versatility allows it to be used in a wide range of applications and platforms.
+
+History of Javascript and Ecmascript?
+
+JavaScript was created by Brendan Eich in 1995 while he was working at Netscape Communications Corporation. It was first released as Mocha, and then changed to LiveScript, before finally being named JavaScript.
+
+JavaScript's initial purpose was to provide interactivity and dynamic behavior to web pages, and it quickly gained widespread adoption as a web development language. However, JavaScript's early design and implementation were not standardized and were heavily influenced by the programming languages of the time, such as Java and Scheme.
+
+In 1996, JavaScript was submitted to ECMA International, an industry association for standardizing information and communication systems, and ECMA-262 was published as the first official standard for the language, which is commonly referred to as ECMAScript.
+
+ECMAScript versions were released periodically, but the most significant updates were:
+
+ES5 (released in 2009) introduced strict mode, JSON support and many new methods to array and objects
+ES6 (released in 2015) which introduced new features such as let and const, arrow functions, template literals and much more.
+ES7 (released in 2016) introduced new features like Array.prototype.includes()
+ES8 (released in 2017) introduced new features like async/await and Object.values/Object.entries
+ES9, ES10, ES11 (released in 2018, 2019 and 2020 respectively) introduced new features like rest/spread properties, private fields and more.
+The latest version of ECMAScript is ES2021 (ES11) which was released in June 2021.
+
+JavaScript is now considered as one of the most popular programming languages in the world and is supported by all major web browsers, making it an essential tool for front-end web development.
